@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TollTaxApp.addData" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAQECAAAiQAABSABICAIBAGAAQABAgAQCgAAwREkAI=</HashCode>
+      <FileName>addData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TollTaxApp.AllRecordForm" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEQBAAAACQAABAAAACAEAACAAAAIAEAACAAAAREAAI=</HashCode>
+      <FileName>AllRecordForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TollTaxApp.AppMainPage" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>8mIUoxQQGeIZB1RBCAyA7ZAC6BiIBEgg3A3iAdhIIA4=</HashCode>
+      <FileName>AppMainPage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TollTaxApp.LoginForm" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAoAAiIACABABAAAACgDQECMAQEAAQiBAQAAQAAAQA=</HashCode>
+      <FileName>Login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TollTaxApp.Program" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TollTaxApp.Search" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgEQIhAUICQJARQgBISAQAAmEAQAAAKhaDAiA4xEgAI=</HashCode>
+      <FileName>Search.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TollTaxApp.SearchMore" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AhAQAQEAgCQCABACDCKABBBCQA8ABAgEQCkAA4RAAAo=</HashCode>
+      <FileName>SearchMore.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TollTaxApp.SignupForm" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAIAAGAACARABQAAACADQECEAQEAAQgBAAAAQBAgAA=</HashCode>
+      <FileName>Signup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TollTaxApp.Update" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgEUIhAUICQJIRQgBISASAAmEAQCAACBeDAiA8xEgAI=</HashCode>
+      <FileName>Update.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TollTaxApp.Properties.Resources" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAgyhCJEABAAgEI0ACABkCAABRSMEAAIAIIgAqACAYg=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TollTaxApp.Properties.Settings" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
