@@ -18,3 +18,4 @@ that passed from the toll.
 # ERD
 ![erd](https://user-images.githubusercontent.com/68731898/183970469-05f872d1-f941-4353-8799-4680f5fc81db.png)
 
+## Furthermore a detailed report on this project is in the finalproject/report folder, which explains everything of this project.
